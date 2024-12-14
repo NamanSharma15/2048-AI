@@ -1,4 +1,4 @@
-SIZE = 400
+SIZE = 300
 GRID_LEN = 4
 GRID_PADDING = 10
 
@@ -43,10 +43,11 @@ CELL_COLOR_DICT = {
 65536:  "#f9f6f2",
 }
 
-FONT = ("Verdana",40,"bold")
+FONT = ("Verdana",20,"bold")
 
 KEY_QUIT = "Escape"
 KEY_BACK = "b"
+KEY_START = "s"
 
 KEY_UP = "Up"
 KEY_DOWN = "Down"
